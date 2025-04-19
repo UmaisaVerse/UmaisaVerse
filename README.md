@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @UmaisaVerse
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me HMU
+- 👀 I’m passionate about all things Data Science
+- 🌱 Currently exploring ML, data analysis & visualization
+- 💞️ Looking to collaborate on meaningful tech projects
+- 📫 Reach me via DM — let’s connect and build something awesome!
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm an ELectronic Engineer
+- ⚡ Fun fact: I’m an Electronics Engineer turned Data Sorcerer 🧙‍♀️💻
 
 <!---
 UmaisaVerse/UmaisaVerse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
